@@ -41,7 +41,7 @@ RealTimeClockOverlay/
 Clone repo:
 
 ```
-https://github.com/ColoronX/flowlauncher-clock-overlay
+git clone https://github.com/ColoronX/flowlauncher-clock-overlay
 ```
 
 From the `RealTimeClockOverlay` folder:
