@@ -38,6 +38,11 @@ RealTimeClockOverlay/
   runtime, which Flow Launcher's C# plugin host already relies on)
 
 ## Build
+Clone repo:
+
+```
+https://github.com/ColoronX/flowlauncher-clock-overlay
+```
 
 From the `RealTimeClockOverlay` folder:
 
