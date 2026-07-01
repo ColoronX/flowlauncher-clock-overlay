@@ -1,0 +1,12 @@
+{
+  "ID": "f3a9c2d1-6b4e-4a2f-9c3d-8e1f7b6a5d40",
+  "ActionKeyword": "clock",
+  "Name": "Real-Time Clock Overlay",
+  "Description": "Shows a draggable, always-on-top real-time clock overlay on your screen",
+  "Author": "you",
+  "Version": "1.0.0",
+  "Language": "csharp",
+  "Website": "https://github.com/ColoronX/flowlauncher-clock-overlay",
+  "IcoPath": "icon.png",
+  "ExecuteFileName": "ClockOverlay.dll"
+}
