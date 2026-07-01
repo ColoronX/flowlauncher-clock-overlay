@@ -14,7 +14,7 @@
 
     <Border x:Name="RootBorder" CornerRadius="8" Background="#CC1E1E1E" Padding="12,6">
         <Border.Effect>
-            <DropShadowEffect BlurRadius="12" ShadowDepth="0" Opacity="0.45" Color="Black"/>
+            <DropShadowEffect BlurRadius="12" ShadowDepth="0" Opacity="0" Color="Black"/>
         </Border.Effect>
         <TextBlock x:Name="TimeText"
                    Foreground="White"
